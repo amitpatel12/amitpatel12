@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](https://komarev.com/ghpvc/?username=amitpate12&abbreviated=true)
+
 ![amitpatel12's Stats](https://github-readme-stats.vercel.app/api?username=amitpatel12&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ![amitpatel12's Streak](https://github-readme-streak-stats.herokuapp.com/?user=amitpatel12&theme=vue-dark&hide_border=true)
